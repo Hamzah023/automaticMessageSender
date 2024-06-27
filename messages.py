@@ -2,7 +2,7 @@ import os
 import time
 from pynput.keyboard import Key, Controller
 
-os.system("open 'sms://+14377724191'")
+os.system("open 'sms://+14166768812'")
 
 time.sleep(5)
 
